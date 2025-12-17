@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "date-and-time": "^4.1.2",
+    "discord.js": "^14.25.1"
+  }
+}
